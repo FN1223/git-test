@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('World!')
     print_hi('version 11')
     print_hi('version 12')
+    print_hi('version 13')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
